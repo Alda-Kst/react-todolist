@@ -8,20 +8,14 @@ A simple and responsive to-do list application built with React. Easily manage y
 
 ## 🚀 Features
 
-- ✅ Add new tasks
-- ✏️ Edit existing tasks
+- ✅ Add new task
 - 🗑️ Delete tasks
-- 📋 Mark tasks as complete or incomplete
-- 🌙 Optional dark/light mode (if implemented)
-- 💾 Data persistence using localStorage
-
+  
 ## 🛠 Tech Stack
 
 - React (with Hooks)
 - Vite (for fast development and build)
-- CSS / SCSS / Tailwind (choose based on your project)
-- localStorage for storing tasks
-- (Optional) React Icons or other UI libraries
+- CSS 
 
 ## 📦 Installation
 
